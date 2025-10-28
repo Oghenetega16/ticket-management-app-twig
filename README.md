@@ -101,15 +101,13 @@ twig/
 |   |    ├── signup.js  
 |   |    ├── ticketManagement.js
 |   |    ├── ticketModal.js 
-|   |    ├── toast.js
-|   |      
+|   |    └── toast.js   
 |   └── services
 |   |    ├── auth.js
-|   |    ├── tickets.js  
-|
+|   |    └── tickets.js  
 |   └── utils 
 |        ├── helpers.js
-|        ├── validation.js  
+|        └── validation.js  
 ├── index.html
 └── README.md              
 ```
